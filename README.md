@@ -1,5 +1,5 @@
 # SpringHttpBasicSecurity
-Spring boot application with http basic userDetailsService authorization and initial setup migration using Mongock.
+Spring boot application with http basic userDetailsService authentication and initial setup migration using Mongock.
 
 ### Guides
 The following guides illustrate how to use some features concretely:
